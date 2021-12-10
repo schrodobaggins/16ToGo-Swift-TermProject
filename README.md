@@ -3,7 +3,7 @@
 
 ![appunknown](https://user-images.githubusercontent.com/27389678/145497443-c62fdef4-7fad-4b85-9fdd-5de07a9b81b8.png)
 # 16ToGo
-This is a Fasting countdown app inspired by another iOS app named "Zero", created by Mike Maser and Kevin Rose
+This is a Fasting countdown app inspired by the iOS app named "Zero", created by Mike Maser and Kevin Rose
 
 ## Description
 
