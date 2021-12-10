@@ -27,6 +27,6 @@ https://looka.com/logo-maker/
 
 This app was created in conjunction with CSC690 and it's course policies apply here. 
 \
-# Michael Schroeder 
+## Michael Schroeder 
 \
-# 920432419
+## 920432419
